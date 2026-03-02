@@ -106,4 +106,4 @@ with col3:
 
 with col4:
     if st.button("✅ Checklist"):
-        st.switch_page("pages/4_Checklist.py")
+        st.switch_page("pages/4_checklist.py")
